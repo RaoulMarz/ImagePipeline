@@ -1,2 +1,4 @@
 # ImagePipeline
-ImagePipeLine :: general pupose image list viewer
+ImagePipeLine :: general purpose image list viewer
+
+Use CMake build system. Build tested on Fedora 28.
